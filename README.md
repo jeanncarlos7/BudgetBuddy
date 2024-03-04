@@ -1,2 +1,2 @@
 # BudgetBuddy
-API Rest do Porjeto Budget Buddy - Controle de Gastos Pessoais
+API Rest do Projeto Budget Buddy - Controle de Gastos Pessoais
