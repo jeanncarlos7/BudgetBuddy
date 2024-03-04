@@ -1,4 +1,5 @@
 # BudgetBuddy
+<<<<<<< HEAD
 
 API Rest do Projeto Budget Buddy - Controle de Gastos Pessoais
 
@@ -171,3 +172,6 @@ Cadastra uma categoria com os dados enviados no corpo da requisição.
 |404| Não existe categoria com o `id` informado 
 
 --- 
+=======
+API Rest do Projeto Budget Buddy - Controle de Gastos Pessoais
+>>>>>>> 6fc8f10b318a0891b6989c96e5c9acc0ed779d73
